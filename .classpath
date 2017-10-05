@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/mailapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/dsn.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/gimap.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/hamcrest-core-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/imap.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itextpdf-5.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itextpdf-5.5.6-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itextpdf-5.5.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itext-pdfa-5.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itext-pdfa-5.5.6-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itext-pdfa-5.5.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itext-xtra-5.5.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itext-xtra-5.5.6-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/itext-xtra-5.5.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/jcalendar-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/jcommon-1.0.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/jfreechart-1.0.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/jfreesvg-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/JTattoo-1.6.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/junit-4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/mailapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/ojdbc6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/orsonpdf-1.6-eval.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/pop3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/rs2xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/servlet.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/smtp.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/sqlite-jdbc-3.8.10.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/rashid ahmad/Documents/NetBeansProjects/jarfileall/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>
